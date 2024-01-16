@@ -51,10 +51,7 @@ int resolve_sbus_frame(const uint8_t *buff) {
 
 /**
  * @brief 获取指定SBUS通道的数据
- * 
- * SBUS是一种通信协议，用于将遥控器的模拟信号转换为微控制器可处理的数字信号。
- * 此函数用于获取SBUS数据帧中指定通道的值。
- * 
+ *
  * @param channel_id 要获取的通道ID，范围为 [1, 18]
  * @param channel_data 存储获取到的通道值的指针
  * 
