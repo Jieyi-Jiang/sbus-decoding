@@ -1,2 +1,2 @@
-# sbus-decoding
-## a very simple sbus deconding code
+# sbus-decoder
+## A very simple sbus deconder
